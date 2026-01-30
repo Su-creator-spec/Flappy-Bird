@@ -15,9 +15,17 @@ Built for learning, experimenting, and having fun with game development concepts
 
 ##  Project Structure
 Flappy-Bird/
-├── .gitattributes
-├── README.md
-└── (game source files to be added)
+── assests/
+   └── (game images, sprites, sounds)
+── App.java
+── App.class
+── FlappyBird.java
+── FlappyBird.class
+── FlappyBird$1.class
+── FlappyBird$Bird.class
+── FlappyBird$pipe.class
+── .gitattributes
+── README.md
 
 
 ---
@@ -72,7 +80,7 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 ---
 ### Acknowledgements
-Inspired by the original Flappy Bird game by Dong Nguyen.
-This project is for educational purposes only.
+- Inspired by the original Flappy Bird game by Dong Nguyen.
+- This project is for educational purposes only.
   
 
