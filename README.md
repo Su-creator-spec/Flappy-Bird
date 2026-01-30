@@ -14,17 +14,17 @@ Built for learning, experimenting, and having fun with game development concepts
 ---
 
 ##  Project Structure
-Flappy-Bird/
-─ assests/ (game images, sprites, sounds)
-─ App.java
-─ App.class
-─ FlappyBird.java
-─ FlappyBird.class
-─ FlappyBird$1.class
-─ FlappyBird$Bird.class
-─ FlappyBird$pipe.class
-─ .gitattributes
-─ README.md
+Flappy-Bird
+- assests/ (game images, sprites, sounds)
+- App.java
+- App.class
+- FlappyBird.java
+- FlappyBird.class
+- FlappyBird$1.class
+- FlappyBird$Bird.class
+- FlappyBird$pipe.class
+- .gitattributes
+- README.md
 
 ---
 
